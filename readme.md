@@ -1,6 +1,6 @@
 Simon's Stamp Collection App
 ---
 
-#About
+#About Simon
 
-Stuff about Simon's Stamps here...
+New York Times raves this is the best stamp collection of the ages! 
